@@ -20,16 +20,57 @@
 
 ## 🧠 My Focus Areas
 - Backend Development
-- Python Development
-- Django Development
 - Database Development & PostgreSQL
 - REST API Development
 - AI Engineering
 - Machine Learning
 - AI Automation
-- Software Engineering
-- Cybersecurity
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+  <h3 align="center">🔍 GitHub Repository Health Analyzer</h3>
+
+   <p align="center">
+        <a href="https://github.com/Rayyan167/Github-Repo-Analyzer">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+
+  <p>
+        A Django-based application that analyzes public GitHub repositories and generates automated health reports using repository metadata, commits, root files, and rule-based checks.
+      </p>
+
+  <p align="center">
+        <img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-A855F7?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-A855F7?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+
+  </td>
+
+  <td width="50%" valign="top">
+
+   <h3 align="center">⚙️ Project Two</h3>
+
+  <p align="center">
+        <img src="https://img.shields.io/badge/COMING_SOON-00FFFF?style=for-the-badge&logoColor=black" />
+      </p>
+
+   <p>
+        Description will go here once the project is completed and ready to showcase.
+      </p>
+
+   <p align="center">
+        <img src="https://img.shields.io/badge/IN_DEVELOPMENT-00FFFF?style=flat-square" />
+      </p>
+
+  </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -55,7 +96,6 @@
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
@@ -63,7 +103,6 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
 
 </p>
@@ -95,9 +134,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Rayyan167)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="www.linkedin.com/in/rayyan-ahmad-6b349321b">
@@ -106,10 +142,6 @@
   <a href="mailto:rayyan.ahmad167@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <div align="center">
